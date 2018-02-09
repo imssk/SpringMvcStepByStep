@@ -6,9 +6,7 @@ http://docs.spring.io/spring/docs/current/spring-framework-reference/html/images
 
 Added Comment By Shashank
 
-Added For Shashank_B1
-
-Again Added For Shashank_B1
+Removed Comment from Shashank_B1 and Master
 
 
 ## Dispatcher Servlet
